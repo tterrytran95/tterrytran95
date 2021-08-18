@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tterrytran95
 - 👀 I’m interested in machine learning and neural networks 
-- 🌱 I’m currently learning how to create data pipelines 
-- 💞️ I’m looking to collaborate on a project that will help the world 
+- 🌱 I’m currently learning about data pipelines and big data processing
+- 💞️ I’m looking to collaborate on a project that will make the world a better place
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/terry-tt-tran/)
 
 <!---
